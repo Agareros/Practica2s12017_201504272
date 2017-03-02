@@ -28,6 +28,8 @@ public class Practica2_EDD {
                         "Error:" + ex.getMessage(), JOptionPane.ERROR_MESSAGE);
                         
         }
+            Principal Pri= new Principal();
+            Pri.setVisible(true);
       
       
         
