@@ -30,6 +30,8 @@ public class Practica2_EDD {
         }
             Principal Pri= new Principal();
             Pri.setVisible(true);
+            
+           
       
       
         
