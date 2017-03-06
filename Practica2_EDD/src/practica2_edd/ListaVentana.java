@@ -5,6 +5,8 @@
  */
 package practica2_edd;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author TOSHIBA P55
@@ -16,6 +18,8 @@ public class ListaVentana extends javax.swing.JFrame {
      */
     public ListaVentana() {
         initComponents();
+       
+        
     }
 
     /**

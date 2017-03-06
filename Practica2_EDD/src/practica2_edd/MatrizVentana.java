@@ -5,6 +5,8 @@
  */
 package practica2_edd;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author TOSHIBA P55
